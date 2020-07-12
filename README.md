@@ -4,4 +4,4 @@ I'm a software engineer focusing on the modern web and full-stack JavaScript. I 
 
 I dream up ways to improve code quality and developer experience. I love to automate these with custom linter plugins, code mods, and other scripts. Here are some of my favorite tools in my dev stack: TypeScript, React, Node.js, Express, GraphQL, MongoDB, etc. See some of my projects below :point_down:!
 
-Find more at my website [andersdjohnson.com](https://andersdjohnson.com). [Follow me on Twitter](https://twitter.com/AndersDJohnson)!
+Find more at my website [andersdjohnson.com](https://andersdjohnson.com). And [follow me on Twitter](https://twitter.com/AndersDJohnson)!
