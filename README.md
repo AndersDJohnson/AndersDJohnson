@@ -4,8 +4,6 @@ I'm a software engineer focusing on the modern web and full-stack JavaScript. I 
 
 Have a project? I'd love to work with you! Freelance or contract, remote & off-hours, < 10-20 hours/week. [Please drop me a line](https://docs.google.com/forms/d/e/1FAIpQLScTn7tINVqOEYdRcEj_HQGpJAL1i4mFIqrXRaBtIHjMcCEKtQ/viewform)!
 
-I dream up ways to improve code quality & developer experience. I love to automate these with custom linter plugins, code mods, & other scripts.
-
 My fav tech stack:\
 <img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/javascript.svg" alt="JavaScript" /><img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/typescript.svg" alt="TypeScript" /><img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/react.svg" alt="React" /><img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/react-query.svg" alt="react-query" /><img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/node.svg" alt="Node" /><img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/express.svg" alt="Express" /><img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/graphql.svg" alt="GraphQL" /><img width="12.5%" src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/mongodb.svg" alt="MongoDB" />
 
