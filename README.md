@@ -1,7 +1,7 @@
 # :wave: Hey, I'm Anders!
 
 I'm a software engineer focusing on the modern web & full-stack JavaScript (actually TypeScript!). I love open source - follow or :heart: [sponsor me or donate](https://github.com/sponsors/AndersDJohnson)!\
-Lead Engineer on Target.com. Computer Science degree from University of Minnesota.
+Principal Engineer on Target.com. Computer Science degree from University of Minnesota.
 
 Have a project? I'd love to work with you! Freelance or contract, remote & off-hours, < 10-20 hours/week. [Please drop me a line](https://docs.google.com/forms/d/e/1FAIpQLScTn7tINVqOEYdRcEj_HQGpJAL1i4mFIqrXRaBtIHjMcCEKtQ/viewform)!
 
