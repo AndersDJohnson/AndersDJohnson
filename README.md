@@ -4,7 +4,7 @@ I'm a Principal Engineer focusing on the modern web & full-stack JavaScript (act
 I love open source - follow or :heart: [sponsor me or donate](https://github.com/sponsors/AndersDJohnson)!
 Currently building [Target.com](https://www.target.com). Degreed in Computer Science from University of Minnesota.
 
-Have a project? I'd love to work with you! Freelance or contract, remote & off-hours, < 10-20 hours/week.
+Have a project? I'd love to work with you! Freelance or contract, remote & off-hours, < 10 hours/week.
 [Please drop me a line](https://docs.google.com/forms/d/e/1FAIpQLScTn7tINVqOEYdRcEj_HQGpJAL1i4mFIqrXRaBtIHjMcCEKtQ/viewform)!
 
 My fav tech stack:\
